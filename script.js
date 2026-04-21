@@ -89,7 +89,7 @@ let livros = [
   {
     titulo: "A Odisseia",
     categoria: "fantasia",
-    imagem: "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+    imagem: "https://tocalivros.s3.amazonaws.com/images/audiolivros/200/a/-/a-odisseia-homero-1048714.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
     pdf: "https://www.dominiopublico.gov.br/download/texto/bn000002.pdf",
     youtube: "https://www.youtube.com/watch?v=AXIseb1w69Q"
@@ -98,7 +98,7 @@ let livros = [
   {
     titulo: "O Alquimista",
     categoria: "filosofia",
-    imagem: "https://covers.openlibrary.org/b/id/8235116-L.jpg",
+    imagem: "https://www.fflch.usp.br/sites/fflch.usp.br/files/2023-12/Capa%20O%20alquimista.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     pdf: "https://www.pdfdrive.com/o-alquimista-e187547254.html",
     youtube: "https://www.youtube.com/watch?v=-7vsi2WL9Lw"
@@ -107,7 +107,7 @@ let livros = [
   {
     titulo: "A Divina Comedia",
     categoria: "fantasia",
-    imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
+    imagem: "https://tocalivros.s3.amazonaws.com/images/audiolivros/200/a/-/a-divina-comedia-dante-alighieri-jose-pedro-xavier-pinheiro-1048562.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
     pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
     youtube: "https://www.youtube.com/watch?v=e46VHHXzX_A"
@@ -117,7 +117,7 @@ let livros = [
   {
     titulo: "Entre deuses e monstros",
     categoria: "fantasia",
-    imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
+    imagem: "https://m.media-amazon.com/images/I/91h74NzbZCL._AC_UF1000,1000_QL80_.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
     pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
     youtube: "https://www.youtube.com/watch?v=1RJJ3P79aEs&list=PLjQNMUXdBChAE1QFqH7fukWCVoEUHcUuk"
@@ -125,7 +125,7 @@ let livros = [
   {
     titulo: "Game of Thrones",
     categoria: "fantasia",
-    imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
+    imagem: "https://down-br.img.susercontent.com/file/22486b8724790b12894326aafe26846d",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
     pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
     youtube: "https://www.youtube.com/watch?v=e_jWyz2pdRc&list=PLT78GeVq1FMjmQZyjQqIheq6Ee8D377QA"
@@ -134,7 +134,7 @@ let livros = [
   {
     titulo: "A Revolução dos Bichos",
     categoria: "filosofia",
-    imagem: "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    imagem: "https://m.media-amazon.com/images/I/91BsZhxCRjL.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
     pdf: "https://www.dominiopublico.gov.br/download/texto/bn000002.pdf",
     youtube: "https://www.youtube.com/watch?v=P71PBJxR0TA"
