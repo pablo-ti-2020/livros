@@ -85,7 +85,14 @@ function buscar() {
 // LISTA DE LIVROS (OBJETO FINAL)
 // ===============================
 let livros = [
-
+  {
+    titulo: "Drácula",
+    categoria: "fantasia",
+    imagem: "https://tocalivros.s3.amazonaws.com/images/audiolivros/200/d/r/dracula-bram-stoker-1048476.jpg",
+    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    pdf: "https://www.dominiopublico.gov.br/download/texto/bn000002.pdf",
+    youtube: "https://www.youtube.com/watch?v=VP406ZhzCRM"
+  },
   {
     titulo: "A Odisseia",
     categoria: "fantasia",
