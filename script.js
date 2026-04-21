@@ -92,7 +92,7 @@ let livros = [
     imagem: "https://covers.openlibrary.org/b/id/8231856-L.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
     pdf: "https://www.dominiopublico.gov.br/download/texto/bn000002.pdf",
-    youtube: "https://www.youtube.com/watch?v=0XrP2vSg6pA"
+    youtube: "https://www.youtube.com/watch?v=AXIseb1w69Q"
   },
 
   {
@@ -101,16 +101,34 @@ let livros = [
     imagem: "https://covers.openlibrary.org/b/id/8235116-L.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     pdf: "https://www.pdfdrive.com/o-alquimista-e187547254.html",
-    youtube: "https://www.youtube.com/watch?v=dzY2mH2lQq8"
+    youtube: "https://www.youtube.com/watch?v=-7vsi2WL9Lw"
   },
 
+  {
+    titulo: "A Divina Comedia",
+    categoria: "fantasia",
+    imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
+    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
+    youtube: "https://www.youtube.com/watch?v=e46VHHXzX_A"
+  },
+
+
+  {
+    titulo: "Entre deuses e monstros",
+    categoria: "fantasia",
+    imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
+    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
+    youtube: "https://www.youtube.com/watch?v=1RJJ3P79aEs&list=PLjQNMUXdBChAE1QFqH7fukWCVoEUHcUuk"
+  },
   {
     titulo: "Game of Thrones",
     categoria: "fantasia",
     imagem: "https://covers.openlibrary.org/b/id/8319256-L.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
     pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
-    youtube: "https://www.youtube.com/watch?v=KPLWWIOCOOQ"
+    youtube: "https://www.youtube.com/watch?v=e_jWyz2pdRc&list=PLT78GeVq1FMjmQZyjQqIheq6Ee8D377QA"
   },
 
   {
@@ -119,7 +137,7 @@ let livros = [
     imagem: "https://covers.openlibrary.org/b/id/7222246-L.jpg",
     audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
     pdf: "https://www.dominiopublico.gov.br/download/texto/bn000002.pdf",
-    youtube: "https://www.youtube.com/watch?v=0XrP2vSg6pA"
+    youtube: "https://www.youtube.com/watch?v=P71PBJxR0TA"
   }
 
 ]
