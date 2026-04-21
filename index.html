@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Biblioteca Mágica</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+      <h2>📚 Categorias</h2>
+
+      <button onclick="filtrarCategoria('todos')">Todos</button>
+      <button onclick="filtrarCategoria('fantasia')">Fantasia</button>
+      <button onclick="filtrarCategoria('filosofia')">Filosofia</button>
+      <button onclick="filtrarCategoria('acao')">Ação</button>
+      <button onclick="filtrarCategoria('romance')">Romance</button>
+
+      <hr>
+
+      <h3>➕ Adicionar</h3>
+      <input id="titulo" placeholder="Título">
+      <input id="categoria" placeholder="Categoria">
+      <button onclick="adicionarLivro()">Adicionar</button>
+    </div>
+
+
+    <!-- CONTEÚDO -->
+    <div class="conteudo">
+
+      <h1>✨ Biblioteca Mágica</h1>
+
+      <!-- BUSCA -->
+      <input 
+        id="busca" 
+        placeholder="Buscar por título ou categoria..." 
+        onkeyup="buscar()"
+      >
+
+      <!-- LISTA -->
+      <div id="lista" class="grid"></div>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
