@@ -130,6 +130,14 @@ let livros = [
     pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
     youtube: "https://www.youtube.com/watch?v=e_jWyz2pdRc&list=PLT78GeVq1FMjmQZyjQqIheq6Ee8D377QA"
   },
+  {
+    titulo: "Porque as Zebras Não Têm Úlceras",
+    categoria: "auto-ajuda",
+    imagem: "https://i.ytimg.com/vi/xAtfAsyOOxk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBUt7Yy2euAcalR0PuIZ39P3tY2nw",
+    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    pdf: "https://www.pdfdrive.com/game-of-thrones-e187547252.html",
+    youtube: "https://www.youtube.com/watch?v=xAtfAsyOOxk"
+  },
 
   {
     titulo: "A Revolução dos Bichos",
