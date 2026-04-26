@@ -82,6 +82,14 @@ function buscar() {
 
 
 // ===============================
+// NOVA FUNÇÃO (IR PARA INGLES)
+// ===============================
+function irParaIngles() {
+  window.location.href = "ingles.html"
+}
+
+
+// ===============================
 // LISTA DE LIVROS (OBJETO FINAL)
 // ===============================
 let livros = [
