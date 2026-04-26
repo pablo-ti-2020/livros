@@ -34,22 +34,42 @@ let dicas = [
   {
     titulo: "Aprenda inglês básico",
     imagem: "https://picsum.photos/200/300",
-    link: "https://google.com"
+    link: "ingles/a2.mp4"
   },
   {
     titulo: "Verbos mais usados",
     imagem: "https://picsum.photos/200/301",
-    link: "https://youtube.com"
+    link: "ingles/a3.mp4"
   },
   {
     titulo: "Frases do dia a dia",
     imagem: "https://picsum.photos/200/302",
-    link: "https://duolingo.com"
+    link: "ingles/a4.jpg"
+  },  
+  {
+    titulo: "Verbos mais usados",
+    imagem: "https://picsum.photos/200/301",
+    link: "ingles/a5.jpg"
+  },
+  {
+    titulo: "Frases do dia a dia",
+    imagem: "https://picsum.photos/200/302",
+    link: "ingles/a6.jpg"
+  },  
+  {
+    titulo: "Verbos mais usados",
+    imagem: "https://picsum.photos/200/301",
+    link: "ingles/a7.jpg"
+  },
+  {
+    titulo: "Frases do dia a dia",
+    imagem: "https://picsum.photos/200/302",
+    link: "ingles/a8.jpg"
   },
   {
     titulo: "Dicas de pronúncia",
     imagem: "https://picsum.photos/200/303",
-    link: "https://bbc.com"
+    link: "ingles/a2.mp4"
   }
 ]
 
