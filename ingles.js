@@ -32,42 +32,42 @@ function mostrarDicas(lista) {
 // ===============================
 let dicas = [
   {
-    titulo: "Aprenda inglês básico",
+    titulo: "Dia 1",
     imagem: "https://picsum.photos/200/300",
     link: "ingles/a2.mp4"
   },
   {
-    titulo: "Verbos mais usados",
+    titulo: "Dia 2",
     imagem: "https://picsum.photos/200/301",
     link: "ingles/a3.mp4"
   },
   {
-    titulo: "Frases do dia a dia",
+    titulo: "Dia 3",
     imagem: "https://picsum.photos/200/302",
     link: "ingles/a4.jpg"
   },  
   {
-    titulo: "Verbos mais usados",
+    titulo: "Dia 4",
     imagem: "https://picsum.photos/200/301",
     link: "ingles/a5.jpg"
   },
   {
-    titulo: "Frases do dia a dia",
+    titulo: "Dia 5",
     imagem: "https://picsum.photos/200/302",
     link: "ingles/a6.jpg"
   },  
   {
-    titulo: "Verbos mais usados",
+    titulo: "Dia 6",
     imagem: "https://picsum.photos/200/301",
     link: "ingles/a7.jpg"
   },
   {
-    titulo: "Frases do dia a dia",
+    titulo: "Dia 7",
     imagem: "https://picsum.photos/200/302",
     link: "ingles/a8.jpg"
   },
   {
-    titulo: "Dicas de pronúncia",
+    titulo: "Dia 8",
     imagem: "https://picsum.photos/200/303",
     link: "ingles/a2.mp4"
   }
